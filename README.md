@@ -2,7 +2,9 @@
 c++ linux dns client; use this to test your dns server.
 #download and make
 git clone https://github.com/xzmAPP/xzmdns.git
-cd xzmdns
+#
+cd ./xzmdns
+#
 make
 #how to use it
 ./dnstest 
